@@ -2,6 +2,7 @@
 Terharu ges baca pesan pesannya tadi :)
 
 Ada bonus ilmu nih ges klo mau belajar, jaadi intinya kita bisa pake github buat sharing kode
+
 Install aja dulu git di vscode
 https://git-scm.com/downloads
 
