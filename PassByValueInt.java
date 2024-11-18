@@ -1,7 +1,7 @@
 public class PassByValueInt {
     public static void main(String[] args) {
         // Variabel awal
-        int angka = 10;
+        int angka = 50;
 
         // Menampilkan nilai sebelum metode dipanggil
         System.out.println("Sebelum metode dipanggil:");
